@@ -1,0 +1,3 @@
+<resources>
+    <bool name="is_paid_version">true</bool>
+</resources>
